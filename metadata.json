@@ -1,0 +1,6 @@
+{
+  "name": "Cronograma Azure DevOps UTS",
+  "description": "Dashboard interactivo del cronograma de implementación de Azure DevOps en las Unidades Tecnológicas de Santander (UTS) con diagrama de Gantt, métricas KPI, gestión de riesgos y análisis de carga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
